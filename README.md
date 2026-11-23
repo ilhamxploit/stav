@@ -32,7 +32,7 @@ STAV bekerja dengan cara menyuntikkan **"Hook"** ke dalam file `.bashrc` / `.zsh
 
 **1. Clone Repository:**
 ```bash
-git clone https://github.com/IlhamCysec/stav.git
+git clone https://github.com/ilhamxploit/stav.git
 cd stav
 pip install requirements.txt
 python3 stav.py
